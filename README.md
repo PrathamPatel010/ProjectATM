@@ -1,5 +1,5 @@
 # ProjectATM
-I have started learning C++ since a month. So, I am not ace at it.
-I made my first Project using C++. 
+I have started learning C++ since a month. So, I am just a beginner.
+This is my first Project I made using C++. 
 This is basic ATM Software. 
-I am open to your ideas. You can add more functionalities and improve this code.
+You can add more functionalities and improve this code.
