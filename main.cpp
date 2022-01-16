@@ -55,9 +55,9 @@ int main()
         
             cout << "Would you like to continue?(Y/N) " << endl;
             cin >> choice; 
+        balance = balance + deposit - withdrawl;
         } 
         while (choice == 'y' || choice == 'Y');
-         balance = balance + deposit - withdrawl;
         cout << "Thank you for using ATM service " << endl;
         cout << "Have a great day ahead " << endl;
     }
